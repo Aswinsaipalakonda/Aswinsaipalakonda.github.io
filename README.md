@@ -1,6 +1,6 @@
 # Aswinsaipalakonda's GitHub Page
 
-This is my profile repository where I update my contributions daily.
+
 
 **Daily Update for 2025-05-16**: Today, I updated the README file to maintain my GitHub streak.
 

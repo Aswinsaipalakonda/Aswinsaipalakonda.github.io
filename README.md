@@ -24,6 +24,5 @@ Improved formatting and markdown styling
 
 Linked to related repositories and resources
 
-Final README polish before release
-
+Final README polish before
 

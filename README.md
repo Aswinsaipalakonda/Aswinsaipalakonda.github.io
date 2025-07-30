@@ -12,4 +12,3 @@ Updated README with installation instructions
 
 Added usage section with code examples
 
-Added technologies used section

@@ -19,5 +19,3 @@ Updated contributors and acknowledgments
 Included license information
 
 Added table of contents to README
-
-Improved formatting 

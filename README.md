@@ -22,7 +22,5 @@ Added table of contents to README
 
 Improved formatting and markdown styling
 
-Linked to related repositories and resources
-
-Final README 
+Linked to related repositories and resourc
 

@@ -14,4 +14,4 @@ Added usage section with code examples
 
 Added technologies used section
 
-Updated contributors and acknowledgments
+Updated contributors

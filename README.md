@@ -20,4 +20,4 @@ Included license information
 
 Added table of contents to README
 
-Improved formatting and markdown
+Improved formatting 

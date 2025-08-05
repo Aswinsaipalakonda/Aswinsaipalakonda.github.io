@@ -10,5 +10,3 @@ Added project title, description, and badges
 
 Updated README with installation instructions
 
-Added usage 
-

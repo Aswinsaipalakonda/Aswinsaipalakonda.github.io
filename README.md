@@ -6,4 +6,4 @@ This line has to be update with commit changes
  - Updated README with today's date
 
 Initial commit with basic README structure
-Added project title, description, and badges
+Added project title, description,

@@ -1,6 +1,6 @@
 # Aswinsaipalakonda's GitHub Page
 
-**Daily Update for 2025-11-19**: Today, I updated the README file to maintain my GitHub streak.
+**Daily Update for 2025-11-20**: Today, I updated the README file to maintain my GitHub streak.
 
 This line has to be update with commit changes
  - Updated README with today's date 
